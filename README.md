@@ -5,6 +5,15 @@ jQuery Knob
 - touch, mouse and mousewheel, keyboard events implemented.
 - downward compatible ; overloads an input element.
 
+#### Demo
+
+![alt text](images/1.png)
+![alt text](images/2.png)
+![alt text](images/3.png)
+![alt text](images/4.png)
+![alt text](images/5.png)
+![alt text](images/6.png)
+
 Example
 -------
 
